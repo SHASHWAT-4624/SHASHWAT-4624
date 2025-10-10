@@ -48,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shashwat singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwat singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashwat singh" target="blank"><img align="center" src="https://www.linkedin.com/in/shashwat-singh-7188b0303/"alt="shashwat singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashwat 4624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat 4624" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/shashwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashwat" height="30" width="40" /></a>
 </p>
@@ -97,8 +97,28 @@ Connect me on linkedIn : https://www.linkedin.com/in/shashwat-singh-7188b0303/
 <br>
 Connect me on overleaf : Shashwat singh for my research work<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✨ Coding Vibes
+
+
+
+<!-- Coding GIF Gallery -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFydm42aXZkY2xoYmpzOWhzaDcyNWV5ZzR6a3F2M2JrcG1hOGZybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB4cXFvaTBlMmY5M2N5OTRxenFmbzdjb2ZpdDkwd2RrZXJ4aXY2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVzMmNnMWRicXl2MHhmamRyaTU4YTlwdDFoZnhjMjMwZDFqNzlsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pku9Q4QKdACx6nZQ9r/giphy.gif" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTV4dWgwOGE5cXZ5aGFwOGJ0bTBubm8wZ3hpNnJudTA2NGNpdXc0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="400" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShashwatSingh&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <sub>🕓 Last updated on <strong>October 10, 2025</strong></sub>
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SHASHWAT-4624&limit=5&theme=dark&combine_all_yearly_contributions=true)

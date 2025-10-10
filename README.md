@@ -92,14 +92,16 @@
 </div>
 
 ## 🌐 Socials:
-Connect me on overleaf : Shashwat singh for my research work<br>
+
 Connect me on linkedIn : https://www.linkedin.com/in/shashwat-singh-7188b0303/
+<br>
+Connect me on overleaf : Shashwat singh for my research work<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SHASHWAT-4624&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 

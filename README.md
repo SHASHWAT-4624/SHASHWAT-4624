@@ -48,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shashwat singh" target="blank"><img align="center" src="https://www.linkedin.com/in/shashwat-singh-7188b0303/"alt="shashwat singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashwat singh" target="blank"><img align="center" src="[https://www.linkedin.com/in/shashwat-singh-7188b0303](https://www.linkedin.com/in/shashwat-singh-7188b0303/)/"alt="shashwat singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashwat 4624" target="blank"><img align="center" src="https://raw.githubusercontent.com/shashwat-4624/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat 4624" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/shashwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashwat" height="30" width="40" /></a>
 </p>
